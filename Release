@@ -1,0 +1,8 @@
+Origin: ThunderDOS's Repo
+Label: Vindex GBA Repo
+Suite: stable
+Version: 1.0
+Codename: vindex
+Architectures: iphoneos-arm
+Components: main
+Description: GBA emulator and game collection for legacy iOS

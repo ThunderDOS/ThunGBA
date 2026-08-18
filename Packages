@@ -1,0 +1,31 @@
+Package: com.zodttd.gpsphone
+Name: gpSPhone
+Version: 6.2.5
+Architecture: iphoneos-arm
+Description: Gameboy Advance emu! Support Zod!
+Depiction: http://www.zodttd.com/repo/cydiathemes/gpSPhone_cydiastore.php
+Homepage: http://www.zodttd.com
+Maintainer: ZodTTD <zodttd@zodttd.com>
+Author: ZodTTD
+Section: Games
+Tag: cydia::commercial
+Filename: debs/com.zodttd.gpsphone_6.2.5_iphoneos-arm.deb
+Size: 1001482
+MD5sum: cf5fcab8ae0f16f3e5139065dbf59764
+SHA1: 5d8e38461ab2aa4367ee6affe226176b7f9f1bcf
+SHA256: 880f5ae0df2ff08a03e97efe3fbcd7e28adc5624ba8aac44e06ef15b0ed1ff29
+
+Package: com.vindex.gbagamepack
+Name: Vindex GBA Game Pack
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: com.zodttd.gpsphone
+Section: Games
+Maintainer: Vindex
+Author: Vindex
+Description: GBA game collection for gpSPhone
+Filename: debs/vindex-gba-gamepack_1.0_iphoneos-arm.deb
+Size: 41112346
+MD5sum: 77fe939473ba2a834984a40b51f9f01f
+SHA1: 5519ac3817d39447b3d1bab44ef7dea4610c3b30
+SHA256: 1cfb87fbfebcf629b9262b96f2b769253162e30b0de2281bc5b6310f2a47c3e0
