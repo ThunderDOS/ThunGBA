@@ -45,9 +45,9 @@ MD5sum: 547f41a348447ecea7c7b36b71f1c60d
 SHA1: 21a8a6564e244ba3e1ccbbe1052aec5424c97b1b
 SHA256: bbd30b4b6285ae967d953697ccc81f2f67969b07e75a797be6650255a518676a
 
-Package: com.vindex.gbagamepack
+Package: com.thunderdos.gbagamepack
 Name: Vindex GBA Game Pack
-Version: 1.0
+Version: 0.29_ae
 Architecture: iphoneos-arm
 Depends: com.zodttd.gpsphone
 Section: Games
